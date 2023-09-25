@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact **I have a keen eye for detail**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Connect with me:</h3>[
+](https://dapopadev.github.io/project/)<p align="left">
 <a href="https://linkedin.com/in/dapopadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dapopadev" height="30" width="40" /></a>
 </p>
 
