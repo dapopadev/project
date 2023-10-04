@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniela Popa</h1>
-<h3 align="center">An enthusiastic data analyst from Spain</h3>
 
-- 🔭 I’m currently working on **personal projects**
 
 - 🌱 I’m currently learning **data analysis process, big data frameworks, agile data analysis, machine learning**
 
